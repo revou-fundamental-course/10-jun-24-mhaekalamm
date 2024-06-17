@@ -1,1 +1,26 @@
 /* ini css */
+
+.subject-info {
+    font-size: 24px;
+    font-style: italic;
+    font-family: math;
+}
+
+.subject-celcius {
+    text-align: center;
+}
+
+
+textarea {
+    resize: none;
+    background-color: #f8f8f8;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 14px;
+}
+
+.subject-celcius-fhcal {
+    display: flex;
+    justify-content: space-evenly
+}
