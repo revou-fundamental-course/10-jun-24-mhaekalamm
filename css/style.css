@@ -1,5 +1,13 @@
 /* ini css */
 
+.header-container {
+    text-align: center;
+}
+
+.style-paragraph {
+    text-align: center;
+}
+
 .subject-info {
     font-size: 24px;
     font-style: italic;
@@ -22,5 +30,10 @@ textarea {
 
 .subject-celcius-fhcal {
     display: flex;
-    justify-content: space-evenly
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.formula-container {
+    text-align: center;
 }
